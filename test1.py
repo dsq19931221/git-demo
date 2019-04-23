@@ -1,4 +1,4 @@
 print('hello world')
-a = 2
-b = 1
-c = b
+a = 1
+print('a')
+#i went back to change 1
