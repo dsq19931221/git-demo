@@ -1,3 +1,3 @@
 print('hello world')
-a = 1
-print('a')
+a = 2
+b = 1
